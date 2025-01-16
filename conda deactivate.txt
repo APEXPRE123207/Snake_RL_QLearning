@@ -1,0 +1,8 @@
+conda deactivate
+conda activate Project
+w:
+cd code
+cd somehting
+cd 4 snake rl
+cls
+set KMP_DUPLICATE_LIB_OK=TRUE

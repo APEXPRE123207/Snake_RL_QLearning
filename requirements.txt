@@ -1,0 +1,5 @@
+numpy
+matplotlib
+ipython
+install pytorch torchvision torchaudio cpuonly -c pytorch
+pyglet
